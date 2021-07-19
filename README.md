@@ -1,1 +1,1 @@
-# coursera-a2
+# coursera-assignment
